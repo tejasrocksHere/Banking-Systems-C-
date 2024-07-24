@@ -10,6 +10,8 @@ This C++ project simulates basic banking operations using object-oriented progra
 - **Data Persistence**: Accounts are stored and retrieved from a text file (`accounts.txt`).
 - **Error Handling**: Manage errors such as insufficient balance or non-existent accounts gracefully.
 - **User Interface**: Interactive console-based interface for user interaction.
+- ![image](https://github.com/user-attachments/assets/fbdefc14-5c4e-49fa-8f83-5f3f7dc5869e)
+
 
 ## Classes and Components
 
