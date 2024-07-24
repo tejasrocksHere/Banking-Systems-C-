@@ -1,4 +1,4 @@
-```markdown
+
 # Banking System in C++
 
 This C++ project simulates basic banking operations using object-oriented programming principles. It provides functionalities to manage bank accounts, perform transactions, and persist data using file handling.
